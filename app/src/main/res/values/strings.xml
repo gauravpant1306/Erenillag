@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Namma</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="api_key">AIzaSyBxcwt1NDrfRQAk_xTF9KQIKIw9fMVDz1E</string>
+    <string name="welcome_message">Welcome to Namma</string>
+
+
+</resources>
